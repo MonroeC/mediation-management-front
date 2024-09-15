@@ -6,6 +6,10 @@
     },
     {
       "name": "@vben/web-antd",
+      "path": "apps/fama",
+    },
+    {
+      "name": "@vben/web-antd",
       "path": "apps/web-antd",
     },
     {
